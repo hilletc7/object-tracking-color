@@ -1,10 +1,10 @@
 # object_tracking_color
 
-Basic opencv object tracker that tracks objects based on their color:
-shittycompytervisioncolors.py -v -b
--v: path to the video file (if no path is specified it will default to the webcam)
--b: max buffer size (default buffer size is 10)
-
+Basic opencv object tracker that tracks objects based on their color:\
+shittycompytervisioncolors.py -v -b\
+-v: path to the video file (if no path is specified it will default to the webcam)\
+-b: max buffer size (default buffer size is 10)\
+\
 Colors supported: green, red, and yellow (feel free to add more)
 
 Make sure to install the required libraries:
