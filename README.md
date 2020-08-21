@@ -15,13 +15,14 @@ pip install argparse\
 pip install imutils\
 pip install cv2\
 pip install operator\
-
+\
 Also, to make your life easier when filtering colors in HSV space, use:\
 shittycolordetector.py -f -i -w -p\
 -f: filter range (HSV or RGB)\
 -i: path to to image\
 -w: use webcam\
 -p: preview (default=TRUE)\
+\
 \
 glhf
 
