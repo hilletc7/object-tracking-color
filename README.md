@@ -10,7 +10,7 @@ shittycompytervisioncolors.py -v -b\
 Colors supported: green, red, and yellow (feel free to add more)\
 \
 \
-Make sure to install the required libraries:\
+Make sure to install the required libraries:
 ```{python}
 pip install collections
 pip install copy
@@ -20,7 +20,6 @@ pip install imutils
 pip install cv2
 pip install operator
 ```
-\
 Also, to make your life easier when filtering colors in HSV space, use:\
 \
 shittycolordetector.py -f -i -w -p\
