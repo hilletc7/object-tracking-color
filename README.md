@@ -11,14 +11,15 @@ Colors supported: green, red, and yellow (feel free to add more)\
 \
 \
 Make sure to install the required libraries:\
-pip install collections\
-pip install copy\
-pip install numpy\
-pip install argparse\
-pip install imutils\
-pip install cv2\
-pip install operator\
-\
+```{python}
+pip install collections
+pip install copy
+pip install numpy
+pip install argparse
+pip install imutils
+pip install cv2
+pip install operator
+```
 \
 Also, to make your life easier when filtering colors in HSV space, use:\
 \
